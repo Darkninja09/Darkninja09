@@ -29,7 +29,7 @@ I am a **Computer Science Student** at Shoolini University with a passion for bu
 
 ### 🤝 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivansh-sood-b17b7a280)
-- 📧 [Email](shivansh8679@gmail.com)
+- 📧 [Email](mailto:shivansh8679@gmail.com)
 
 ---
 *"The best way to predict the future is to invent it."*
